@@ -1,0 +1,40 @@
+body {
+    font-family: 'Salsa', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+    margin: 100px;
+}
+
+.half-widh {
+    width: 50%;
+    padding-right: 5%;
+}
+
+.half-widh image {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 50px;
+    background-color: rgb(199, 148, 18);
+    border-radius: 20px;
+}
+
+.box {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 30px 30px 40px yellow;
+}
